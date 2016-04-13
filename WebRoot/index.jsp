@@ -12,7 +12,7 @@
 				 <option value="${supType.key}">${supType.value}</option>
 			</c:forEach>			   
 			</select> 
-		<input type="submit" value="ok">
+		<input type="submit" value="ok"><!-- 45 -->
 	</form>
 </body>
 </html>
